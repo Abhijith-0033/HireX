@@ -1,0 +1,17 @@
+node_modules/
+database.sqlite
+*.log
+.DS_Store
+final_report.pdf
+Final_Report.pdf
+faq.md
+FAQ.md
+faqs.md
+FAQs.md
+hireX.pdf
+KTU_format.tex
+old_report.tex
+research_paper.tex
+upload_faqs.py
+finalreport_content.txt
+hirex_content.txt

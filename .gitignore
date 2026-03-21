@@ -1,0 +1,40 @@
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+*.lof
+*.lot
+
+# Large binaries/archives
+*.zip
+*.pdf
+
+# Testing/Coverage
+.nyc_output/
+
+# OS/Misc
+Thumbs.db
